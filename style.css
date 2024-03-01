@@ -11,7 +11,7 @@ h1
   border-width:2px;
   padding: 10px;
 }
-#nome
+#cartoon_name
 {
   text-decoration: underline;
   font-size:40px;
@@ -37,7 +37,7 @@ p{
   font-family: Arial;
 }
 
-.informacoes{
+.more_about_cartoon{
     color: darkblue;
     font-size: 18px;
 }
